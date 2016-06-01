@@ -7,5 +7,5 @@
 6. 播放界面歌词显示
 7. 下载
 8. 启动界面<br/>
-### 第三方技术 ###
-PagerSlidingTabStrip、xUtils、GSON、Picasso、QuickScroll、OpenLRC、Jsoup
+## 第三方技术 ##
+PagerSlidingTabStrip、xUtils、GSON、Picasso、QuickScroll、OpenLRC、Jsoup.
