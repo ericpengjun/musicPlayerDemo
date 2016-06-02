@@ -8,5 +8,7 @@
 - 播放界面歌词显示
 - 下载
 - 启动界面
+
 ## 第三方技术
+
 PagerSlidingTabStrip、xUtils、GSON、Picasso、QuickScroll、OpenLRC、Jsoup.
